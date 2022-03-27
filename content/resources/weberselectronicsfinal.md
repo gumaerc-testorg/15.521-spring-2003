@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b148724c-539e-f54d-e1f7-6be7a2c7c2e3
 resourcetype: Document
 title: weberselectronicsfinal.pdf
 uid: 9ca992f0-6d1e-172c-0604-a9a609ddbfc5
