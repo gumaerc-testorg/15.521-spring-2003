@@ -2,6 +2,7 @@
 content_type: resource
 description: Balanced Scorecard
 file: /courses/15-521-management-accounting-and-control-spring-2003/45c7ab65d442bbc81f3cf4c1e0cd7f7a_web_class6.pdf
+file_size: 22359
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
