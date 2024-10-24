@@ -3,7 +3,7 @@ content_type: resource
 description: 'Final Exam
 
   Weber?s Customized Electronics'
-file: /courses/15-521-management-accounting-and-control-spring-2003/9ca992f06d1e172c0604a9a609ddbfc5_weberselectronicsfinal.pdf
+file: /ol-ocw-studio-app/courses/15-521-management-accounting-and-control-spring-2003/9ca992f06d1e172c0604a9a609ddbfc5_weberselectronicsfinal.pdf
 file_size: 114674
 file_type: application/pdf
 learning_resource_types:
