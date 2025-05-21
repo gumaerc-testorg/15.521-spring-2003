@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Standard Costs
-file: /ol-ocw-studio-app/courses/15-521-management-accounting-and-control-spring-2003/51876ff739e8ddfe0f181e2b8bc9fcd4_web_class12.pdf
+file: /courses/15-521-management-accounting-and-control-spring-2003/51876ff739e8ddfe0f181e2b8bc9fcd4_web_class12.pdf
 file_size: 98479
 file_type: application/pdf
 learning_resource_types:
