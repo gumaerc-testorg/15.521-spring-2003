@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Cost Allocation
-file: /courses/15-521-management-accounting-and-control-spring-2003/d7565c3a0064fae510ea0dfa4c768470_web_class8.pdf
+file: /ol-ocw-studio-app/courses/15-521-management-accounting-and-control-spring-2003/d7565c3a0064fae510ea0dfa4c768470_web_class8.pdf
 file_size: 74854
 file_type: application/pdf
 learning_resource_types:
